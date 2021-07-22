@@ -6,7 +6,7 @@ class MyClass {
     public function __construct($x, $y) {
         $this->x = $x;
         $this->y = $y;
-        echo "Был создан объект с параметрами: $x и $y";
+        echo "hello world";
     }
 }
 ?>
